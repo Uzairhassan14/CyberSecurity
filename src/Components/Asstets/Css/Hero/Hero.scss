@@ -1,0 +1,11 @@
+.container-fluid {
+  .Image-responsive {
+    height: 100%;
+    width: 100%;
+  }
+  .Hero-left-side {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+}
